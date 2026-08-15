@@ -1,2 +1,2 @@
-# failure-postmortem-kit
-Create factual postmortems with evidence and tracked actions.
+# Failure Postmortem Kit
+Builds blameless, evidence-oriented Markdown postmortems with timeline, causes and accountable actions. Incomplete evidence or ownership blocks generation.
